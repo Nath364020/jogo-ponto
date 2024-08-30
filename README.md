@@ -1,1 +1,2 @@
-# jogo-ponto
+# jogo-pong
+**nathalia**
